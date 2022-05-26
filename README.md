@@ -19,6 +19,7 @@
     <details>
         <summary>Solução</summary>
         <br>
+        https://github.com/neresfabio/beacademy-devstart-logica-de-programacao/blob/main/declaracaoDeVariaveis.php
     </details>
 
 3. Com base no programa anterior calcule e exiba ao final o Índice de Massa Corpórea(IMC) da pessoa sabendo que a fórmula para o cálculo é: IMC = peso/(altura*altura);
