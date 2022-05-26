@@ -16,7 +16,15 @@
 </form>
 
 <?php
-    if($_POST){
-        echo "Oi ".$_POST['name']." seu peso é ".$_POST['peso']." e sua altura ".$_POST['altura'];
+    // if($_POST){
+    //     echo "Oi ".$_POST['name']." seu peso é ".$_POST['peso']." e sua altura ".$_POST['altura'];
+    // }
+    if(isset($_POST)){
+        $name = $_POST['name'];
+        $peso = $_POST['peso'];
+        $altura = $_POST['altura'];
+        echo "Oi ".$name." seu peso é ".$peso." e sua altura ".$altura;
     }
+
+    
 ?>
