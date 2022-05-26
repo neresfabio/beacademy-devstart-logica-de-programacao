@@ -8,9 +8,8 @@
 
 1. Faça um algoritmo para efetuar a troca de um pneu furado.
     <details>
-        <summary>Lógica</summary>
-            <br/>
-        [Fluxo Grama](https://drive.google.com/file/d/1j9AuCGiNBvCqbhlBKYVp9iqIGEx-yz_M/view?usp=sharing)
+        <summary>Lógica - Fluxograma</summary>
+                https://drive.google.com/file/d/1j9AuCGiNBvCqbhlBKYVp9iqIGEx-yz_M/view?usp=sharing
     </details>
 
 >## Constantes, Comandos de Atribuição e Comentários.
