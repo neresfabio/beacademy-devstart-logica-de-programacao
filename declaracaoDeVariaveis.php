@@ -25,6 +25,4 @@
         $altura = $_POST['altura'];
         echo "Oi ".$name." seu peso é ".$peso." e sua altura ".$altura;
     }
-
-    
 ?>

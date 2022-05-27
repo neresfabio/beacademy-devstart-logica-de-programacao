@@ -17,9 +17,11 @@
 2. Crie um programa que declare 3 variáveis para receber o Nome, o peso e a altura de uma pessoa. Ao final imprima os dados na tela.
 
     <details>
+
         <summary>Solução</summary>
         <br>
-        https://github.com/neresfabio/beacademy-devstart-logica-de-programacao/blob/main/declaracaoDeVariaveis.php
+        <a href="https://github.com/neresfabio/beacademy-devstart-logica-de-programacao/blob/main/declaracaoDeVariaveis.php" target="_blank" rel="noopener noreferrer"></a>
+        
     </details>
 
 3. Com base no programa anterior calcule e exiba ao final o Índice de Massa Corpórea(IMC) da pessoa sabendo que a fórmula para o cálculo é: IMC = peso/(altura*altura);
@@ -28,8 +30,10 @@
     encontra a fórmula para esclarecer como o cálculo é feito. Abaixo a saída esperada.
 
      <details>
+
         <summary>Solução</summary>
         <br>
+        <a href="https://" target="_blank" rel="noopener noreferrer"></a>
     </details>
 
 >## Operadores Aritméticos, Relacionais, Lógicos e de Caracteres.
