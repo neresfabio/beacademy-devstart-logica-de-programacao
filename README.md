@@ -325,3 +325,7 @@ da última linha da planilha. Imprima a planilha ao final.
         <br>
     </details>
 
+## Referência
+
+ - [Conversão de tipos de variável](https://www.php.net/manual/pt_BR/function.floatval.php)
+ - [Operadores Aritméticos](https://www.php.net/manual/pt_BR/language.operators.arithmetic.php)
