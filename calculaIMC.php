@@ -11,6 +11,9 @@
     <button>CALCULAR IMC</button>
 </form>
 
+<h2>IMC = peso/(altura*altura)</h2>
+<p>O índice de massa corporal é uma medida internacional usada para calcular se uma pessoa está no peso ideal.</p>
+
 <?php 
 
     if ($_POST){
