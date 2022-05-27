@@ -47,11 +47,12 @@ idade de uma pessoa e exiba:
     OU o nome é igual a Marcos;
     6. Verdadeiro se a idade dividida por 2 é
     igual a ZERO;
-
-        <details>
-            <summary>Solução</summary>
-            <br>
-        </details>
+    
+    <details>
+       <summary>Solução</summary>
+       <br>
+       https://github.com/neresfabio/beacademy-devstart-logica-de-programacao/blob/main/dadosPessoa.php
+    </details>
 
 5. Crie um programa que receba um valor de depósito do usuário e atualize o seu saldo. Ao final exiba o valor inicial o depósito e o saldo atual.
 
