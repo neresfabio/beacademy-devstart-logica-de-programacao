@@ -20,7 +20,7 @@
 
         <summary>Solução</summary>
         <br>
-        <a href="https://github.com/neresfabio/beacademy-devstart-logica-de-programacao/blob/main/declaracaoDeVariaveis.php" target="_blank" rel="noopener noreferrer"></a>
+        https://github.com/neresfabio/beacademy-devstart-logica-de-programacao/blob/main/declaracaoDeVariaveis.php
         
     </details>
 
@@ -33,7 +33,7 @@
 
         <summary>Solução</summary>
         <br>
-        <a href="https://" target="_blank" rel="noopener noreferrer"></a>
+        https://github.com/neresfabio/beacademy-devstart-logica-de-programacao/blob/main/calculaIMC.php
     </details>
 
 >## Operadores Aritméticos, Relacionais, Lógicos e de Caracteres.
