@@ -83,6 +83,7 @@ pessoa e a classifique de acordo com a tabela:
 <details>
         <summary>Solução</summary>
         <br>
+    https://github.com/neresfabio/beacademy-devstart-logica-de-programacao/blob/main/classificaIdade.php
 </details><br/>
 
 8. Crie um programa que permita ao usuário escolher a operação a realizar (depósito ou saque), receba a informação da operação escolhida e o valor do usuário e, em seguida, atualize o seu saldo. Ao final exiba o valor inicial, a operação realizada e o saldo atual.
