@@ -72,6 +72,7 @@ tabela:
  <details>
         <summary>Solução</summary>
         <br>
+    https://github.com/neresfabio/beacademy-devstart-logica-de-programacao/blob/main/classificaoIMC.php
  </details>
 
 7. Crie um programa que receba a idade da
